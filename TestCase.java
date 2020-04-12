@@ -1,9 +1,11 @@
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;
+import java.util.Arrays;
 import java.util.*;
 
 
-class TestCase{
+
+public class TestCase{
   @Test
   public void TestCase1(){
     List<Integer> array = new ArrayList<Integer>();

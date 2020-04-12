@@ -8,4 +8,4 @@ clean:
 complie:
 	$(JC) *.java
 run:
-	$(JA) TestRunner 
+	$(JA) TestRunner
